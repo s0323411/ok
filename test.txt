@@ -1,0 +1,13 @@
+4  民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
+5  民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
+6  民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
+9  大愛電視,https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=209
+10  中視,https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
+11  中視經典台,https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=124
+12  華視,https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
+13  三立綜合台,https://www.4gtv.tv/channel/4gtv-live207?set=1&ch=169
+14  客家電視台,https://www.4gtv.tv/channel/4gtv-4gtv043?set=1&ch=107
+15  八大綜藝台,https://www.4gtv.tv/channel/4gtv-4gtv039?set=1&ch=114
+16  中視菁采台,https://www.4gtv.tv/channel/4gtv-4gtv064?set=1&ch=123
+17  TVBS精采台,https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227
+18  愛爾達娛樂台,https://www.4gtv.tv/channel/4gtv-4gtv070?set=1&ch=19
