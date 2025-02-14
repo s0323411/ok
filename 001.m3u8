@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTINF:-1 tvg-id="4gtv-4gtv001" tvg-name="非凡新聞台 " tvg-logo="https://assets.livednow.com/logo/非凡新聞台 .png" group-title="新聞", 非凡新聞台 
+#EXTVLCOPT:http-user-agent=
+#EXTVLCOPT:http-referrer="https://fetfriday.svc.litv.tv/"
+https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
