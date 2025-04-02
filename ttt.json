@@ -1,14 +1,10 @@
-[
-  {
-    "group": "組名",
-    "name": "標準標題",
-    "title": "標題",
-     "logo": "图标",
-    "uris": [
-      "https://www.youtube.com/watch?v=C6gYqSHLRw4"
-    ],
-    "headers": {
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; Linux; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+{
+  "lives": [
+    {
+      "name": "TV直播(0402)",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/mdkevin004/test/refs/heads/main/0402.py",
+      "ext": {}
     }
-  }
-]
+  ]
+}
